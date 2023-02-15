@@ -1,2 +1,4 @@
 # PreCourse-Henry
-Este es un repositorio de prueba del modulo del PreCourse de Henry
+Mauricio Laguardia
+
+Este proyecto es un aprueba de como clonar
